@@ -86,3 +86,7 @@ The app bundle is writable by your user, but launchd checks the service's signat
 The command-line test driver is compiled in only with `scripts/build.sh --test`, so normal builds can't be driven by other programs through the app.
 
 Run the unit tests with `swift test`. They use Swift Testing, so they run with the Command Line Tools as well as Xcode.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
